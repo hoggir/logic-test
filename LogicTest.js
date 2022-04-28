@@ -10,7 +10,7 @@ function Reverse(huruf) {
   return newString;
 }
 
-conaole.log(Reverse("abcde"));
+console.log(Reverse("abcde"));
 
 //4
 let a = 3;
